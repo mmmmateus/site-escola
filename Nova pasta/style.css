@@ -1,0 +1,14 @@
+:root {
+    background-color: var(--fundo);
+    color: var(--cor-2);
+    --fonte:#ffffff;
+    --cor-2:#969696;
+    --cor-3:#8400ff;
+    --fundo:#000000;
+}
+
+* {
+   margin: 0;
+   padding: 0;
+
+}
